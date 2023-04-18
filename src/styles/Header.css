@@ -1,0 +1,19 @@
+.Header{
+    height: 55px;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+    background-color: #F55A5A;
+}
+
+.Header>p{
+    color: white;
+    margin-left: 7px;
+    font-weight: 500;
+    font-size: 14px;
+}
